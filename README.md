@@ -20,6 +20,11 @@ API Documentation: [IDB API](https://github.com/aikar/db/wiki/IDB-API)
 
 Real World Examples: [Examples](https://github.com/aikar/db/wiki/Real-World-Examples)
 
+### How to build to maven local repo
+```
+./gradlew deploy
+```
+
 ## Say Thanks
 If this library has helped you, please consider donating as a way of saying thanks
 
